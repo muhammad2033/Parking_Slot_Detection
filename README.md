@@ -1,1 +1,3 @@
 # Parking_Slot_Detection
+
+Parking space detection with cv2 involves utilizing computer vision techniques to analyze images or video frames, identifying and categorizing parking spaces as empty or occupied. The process includes image preprocessing, object detection to locate cars, status classification using color-coded representation, and counting empty spaces in real-time. Using the cv2 library, one can apply functions for color conversion, contour detection, and drawing results on the image. This enables the creation of a system that visually represents parking space occupancy, updates the count of empty spaces dynamically, and provides a real-time display for efficient parking management.
